@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Profiler</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_location">Get Location</string>
+    <string name="title_activity_location">Add a new Location</string>
+    <string name="profile_prompt">Choose a profile</string>
+ 
+    <string-array name="profile_array">
+        <item>Silent</item>
+        <item>Vibrate</item>
+        <item>Normal</item>
+    </string-array>
+
+</resources>
